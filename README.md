@@ -7,7 +7,8 @@ Each philosopher has one rice bowl in front of him.
 There is a chopstick to the left of each bowl.
 A philosopher can only use a chopstick if it is to the left or right of his bowls.  
 
-A philosopher goes through three steps:  
+A philosopher goes through three steps:
+
 	• eat : with two chopsticks. One left and one right.
 	• rest : does not use either chopstick, even if one is available.
 	• think : uses one and only one chopstick.  
